@@ -1,0 +1,1 @@
+# ionic-qr-scanner
